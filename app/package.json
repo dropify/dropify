@@ -1,0 +1,15 @@
+{
+  "author": "Dropify",
+  "name": "dropify",
+  "description": "Dropify app.",
+  "version": "0.0.1",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "querystring": "~0.2.0",
+    "request": "^2.88.0"
+  },
+  "scripts": {
+    "start": "node app/app.js"
+  }
+}
